@@ -15,3 +15,5 @@ Bu proje, bir halı saha işletmesinin rezervasyon süreçlerini dijitalleştirm
 
 ## 📋 Proje Hakkında
 Bu çalışma, teknik riskleri (çifte rezervasyon, yetkisiz erişim) minimize edecek şekilde kodlanmış ve modern UI/UX standartlarına göre tasarlanmıştır.
+
+NOT:EGER CALISMAZSA TARAYICI UZERİNDEN DİREK " yasins.gt.tc/bitirme " OLARAK ARATABİLİRSİNİZ SİTEM İNTERNET ÜZERİNDEN AKTİFDİR. ADMİN PANELİNE ERİŞMEK İCİN BU ADRESİ KULLANIN " yasins.gt.tc/bitirme/admin " TESEKÜRLER :) .
